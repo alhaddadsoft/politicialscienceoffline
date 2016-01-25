@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\Documents\\Android\\new project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\push_right_out.xml",
+        "source": "C:\\Users\\hp\\Documents\\Android\\new project\\app\\src\\main\\res\\layout\\push_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Documents\\Android\\new project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web.xml",
+        "source": "C:\\Users\\hp\\Documents\\Android\\new project\\app\\src\\main\\res\\layout\\activity_web.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Documents\\Android\\new project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tips_2.xml",
+        "source": "C:\\Users\\hp\\Documents\\Android\\new project\\app\\src\\main\\res\\layout\\tips_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Documents\\Android\\new project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\hp\\Documents\\Android\\new project\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Documents\\Android\\new project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tips_5.xml",
+        "source": "C:\\Users\\hp\\Documents\\Android\\new project\\app\\src\\main\\res\\layout\\tips_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Documents\\Android\\new project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\push_left_out.xml",
+        "source": "C:\\Users\\hp\\Documents\\Android\\new project\\app\\src\\main\\res\\layout\\push_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Documents\\Android\\new project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\push_right_in.xml",
+        "source": "C:\\Users\\hp\\Documents\\Android\\new project\\app\\src\\main\\res\\layout\\push_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Documents\\Android\\new project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tips_3.xml",
+        "source": "C:\\Users\\hp\\Documents\\Android\\new project\\app\\src\\main\\res\\layout\\tips_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Documents\\Android\\new project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tips_1.xml",
+        "source": "C:\\Users\\hp\\Documents\\Android\\new project\\app\\src\\main\\res\\layout\\tips_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Documents\\Android\\new project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tips_4.xml",
+        "source": "C:\\Users\\hp\\Documents\\Android\\new project\\app\\src\\main\\res\\layout\\tips_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Documents\\Android\\new project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\push_left_in.xml",
+        "source": "C:\\Users\\hp\\Documents\\Android\\new project\\app\\src\\main\\res\\layout\\push_left_in.xml"
+    }
+]

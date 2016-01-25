@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">االإسلام السياسي والمعركة القادمة</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_tips_1">Tips_1</string>
+    <string name="title_activity_tips_2">Tips_2</string>
+    <string name="title_activity_tips_3">Tips_3</string>
+    <string name="title_activity_tips_4">Tips_4</string>
+    <string name="title_activity_tips_5">Tips_5</string>
+    <string name="title_activity_web">Web</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5452201963786571/7864214645</string>
+
+
+</resources>

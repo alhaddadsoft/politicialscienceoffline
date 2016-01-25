@@ -1,0 +1,103 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/startcover">
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView" >
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:gravity="top|left|bottom|center"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:weightSum="1"
+            android:id="@+id/linearLayout3"
+            android:layout_centerInParent="true">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="تم تقسيم الكتاب إلى أربعة أجزاء ليسهل قراءته كل جزء يحتوي على اربع فصول ما عدَ الجزء الرابع يحتوي آخر فصلين فقط... الرجاء تقييم البرنامج بعد القراءة"
+                android:id="@+id/textView"
+                android:layout_gravity="center_horizontal"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/tips1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="الجزء الأول(يحتوي على أربع فصول)"
+                android:textStyle="bold"
+                android:textSize="@android:dimen/app_icon_size"
+                android:theme="@style/AppTheme"
+                android:textColor="#000000"
+                android:textColorHighlight="#d71414"
+                android:textAppearance="@android:color/background_light" />
+
+            <Button
+                android:id="@+id/tips2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="الجزء الثاني (يحتوي على أربع فصول)"
+                android:layout_weight=".13"
+                android:textStyle="bold"
+                android:theme="@style/AppTheme"
+                android:textSize="@android:dimen/app_icon_size"
+                android:textColor="#000000"
+                android:textColorHighlight="#d71414"
+                android:textAppearance="@android:color/background_light" />
+
+            <Button
+                android:id="@+id/tips3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="الحزء الثالث (يحتوي على أربع فصول)"
+                android:textStyle="bold"
+                android:theme="@style/AppTheme"
+                android:textSize="@android:dimen/app_icon_size"
+                android:textColor="#000000"
+                android:textColorHighlight="#d71414"
+                android:textAppearance="@android:color/background_light" />
+
+            <Button
+                android:id="@+id/tips4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="الجزء الرابع (يحتوي على فصلين)"
+                android:textStyle="bold"
+                android:theme="@style/AppTheme"
+                android:textSize="@android:dimen/app_icon_size"
+                android:textColor="#000000"
+                android:textColorHighlight="#d71414"
+                android:textAppearance="@android:color/background_light" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Button"
+                android:visibility="invisible"
+                android:id="@+id/tips5"
+                android:textStyle="bold"
+                android:theme="@style/AppTheme"
+                android:textSize="@android:dimen/app_icon_size"
+                android:textColor="#000000"
+                android:textColorHighlight="#d71414"
+                android:textAppearance="@android:color/background_light" />
+
+                android:textColor="#000000"
+                android:textColorHighlight="#d71414"
+                android:textAppearance="@android:color/background_light" />
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

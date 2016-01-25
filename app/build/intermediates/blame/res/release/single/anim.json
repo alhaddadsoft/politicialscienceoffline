@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\Documents\\Android\\new project\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_up.xml",
+        "source": "C:\\Users\\hp\\Documents\\Android\\new project\\app\\src\\main\\res\\anim\\slide_in_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Documents\\Android\\new project\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_right.xml",
+        "source": "C:\\Users\\hp\\Documents\\Android\\new project\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Documents\\Android\\new project\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_down.xml",
+        "source": "C:\\Users\\hp\\Documents\\Android\\new project\\app\\src\\main\\res\\anim\\slide_out_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Documents\\Android\\new project\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_left.xml",
+        "source": "C:\\Users\\hp\\Documents\\Android\\new project\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    }
+]

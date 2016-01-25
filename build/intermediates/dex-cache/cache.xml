@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\hp\Documents\Android\new project\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\hp\Documents\Android\new project\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-22.2.0_3c0589d3cc674ce92bc6ff3ef32fdeef9d5f9969.jar" />
+    </item>
+    <item
+        jar="C:\Users\hp\Documents\Android\new project\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\hp\Documents\Android\new project\app\build\intermediates\pre-dexed\release\internal_impl-22.2.0_6b1075f9d27e46516f5b729a27ad61fb4a6e63b4.jar" />
+    </item>
+    <item
+        jar="C:\Users\hp\Documents\Android\new project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="C:\Users\hp\Documents\Android\new project\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-8.3.0_e4c4d90151948ba26f099a416706d34e7433e539.jar" />
+    </item>
+    <item
+        jar="C:\Users\hp\Documents\Android\new project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="27775d59b16610ac76f1b83693fedd9520396332">
+        <dex dex="C:\Users\hp\Documents\Android\new project\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-8.3.0_417c930ca37eba586e62bea553c9ba10764cae48.jar" />
+    </item>
+    <item
+        jar="C:\Users\hp\Documents\Android\new project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0c3e81d3eb86b86d194b5cdb6a4de78203f6f7fd">
+        <dex dex="C:\Users\hp\Documents\Android\new project\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-appindexing-8.3.0_bb152a8a78e5132c74c1088582eb38d77080a1ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\hp\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\hp\Documents\Android\new project\app\build\intermediates\pre-dexed\release\support-annotations-22.2.0_632781eb5938eb415b13143fa8f0138c107f6ed0.jar" />
+    </item>
+
+</items>
